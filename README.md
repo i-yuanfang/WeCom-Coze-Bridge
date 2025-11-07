@@ -1,5 +1,3 @@
-# WeCom-Coze-Bridge
-企业微信机器人 Coze 桥接项目
 # 企业微信机器人 Coze 桥接项目 (WeCom-Coze-Bridge)
 
 这是一个用于将 [企业微信群机器人](https://developer.work.weixin.qq.com/document/path/91770) 与 [Coze (扣子)](https://www.coze.cn/) 智能体 API 对接的 Python Flask 应用。
